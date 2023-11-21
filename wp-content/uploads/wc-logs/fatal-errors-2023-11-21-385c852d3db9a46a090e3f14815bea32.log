@@ -1693,3 +1693,43 @@ Stack trace:
 
 2023-11-21T13:38:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\class-wpdb.php on line 2349
 
+2023-11-21T14:00:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-11-21T14:17:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-11-21T14:17:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\Requests\src\Transport\Curl.php on line 510
+
+2023-11-21T14:26:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\class-wpdb.php on line 2349
+
+2023-11-21T14:37:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\Requests\src\Transport\Curl.php on line 510
+
+2023-11-21T14:47:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\class-wpdb.php on line 2349
+
+2023-11-21T14:52:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\class-wp-block-type.php on line 508
+
+2023-11-21T15:09:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\class-wpdb.php on line 2349
+
+2023-11-21T15:11:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\class-wpdb.php on line 2349
+
+2023-11-21T15:11:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\elementor\modules\history\module.php on line 7
+
+2023-11-21T15:12:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 65
+
+2023-11-21T15:12:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 112
+
+2023-11-21T15:12:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\woocommerce\src\Admin\API\MarketingOverview.php on line 13
+
+2023-11-21T15:12:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\woocommerce\src\Admin\API\MarketingOverview.php on line 13
+
+2023-11-21T15:12:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\woocommerce\src\Admin\API\MarketingCampaignTypes.php on line 17
+
+2023-11-21T15:12:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-product-attributes-v1-controller.php on line 11
+
+2023-11-21T15:12:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\woocommerce\includes\class-wc-tax.php on line 1249
+
+2023-11-21T15:18:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-admin\includes\template.php on line 12
+
+2023-11-21T15:18:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-admin\includes\file.php on line 16
+
+2023-11-21T15:19:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\ultimate-addons-for-gutenberg\blocks-config\lottie\class-uagb-lottie.php on line 8
+
