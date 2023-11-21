@@ -1677,3 +1677,17 @@ Stack trace:
 #27 {main}
   thrown in C:\xampp\htdocs\number1\wp-content\plugins\spiraclethemes-site-library\inc\own-shop-functions.php on line 136
 
+2023-11-21T13:28:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\class-wpdb.php on line 2349
+
+2023-11-21T13:29:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-11-21T13:29:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 65
+
+2023-11-21T13:29:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\functions.php on line 4593
+
+2023-11-21T13:29:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 65
+
+2023-11-21T13:29:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-includes\Requests\src\Autoload.php on line 149
+
+2023-11-21T13:30:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\number1\wp-content\plugins\woocommerce\includes\emails\class-wc-email-cancelled-order.php on line 8
+
